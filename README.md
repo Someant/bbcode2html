@@ -9,4 +9,4 @@ Bbcode to html for Wecenter
 * 附件中的图片[attach]$id[/attach] - > img标签(具体的生成格式可以修改/view/question/ajax/load_atach.tpl.html)
 * 文章转换:访问http://youdomain/bbcode2html
 * 问答转换:访问http://youdomain/bbcode2html/1
-* * 读取 htmlspecialchars_decode
+* 读取 htmlspecialchars_decode
